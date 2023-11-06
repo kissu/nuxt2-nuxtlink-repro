@@ -8,6 +8,8 @@ Generate the project, I'm assuming we're using SSG & hosting on Netlify.
 yarn generate
 ```
 
+PS: please use Node `v16.20.1` (at least), may work fine with the current LTS (v20) but I haven't tried it.
+
 Live website (on production) hosted here: [nuxt2-nuxtlink-repro.netlify.app](https://nuxt2-nuxtlink-repro.netlify.app/)
 
 ---
